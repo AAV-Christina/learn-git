@@ -1,0 +1,33 @@
+Push Code to GitHub
+===================
+1.) Create a new repository on GitHub. 
+	Give it a Name and a description. 
+	Set it to Publich or Private.
+	
+2.) Open the Terminal.
+	Navigate to your local project directory.
+	
+3.)	Initialize the local project directory as Git repository.
+	TIPE: ' git init ' in to the terminal
+	
+4.) Add the files in your local repository.
+	TIPE: ' git add . ' in to the terminal
+
+5.)	Your files will be staged for the first time.
+	TIPE: ' git status ' in to the terminal.
+	
+6.)	Commit the files in your local repository.
+	TIPE: ' git commit -m "-first commit-" ' in to the terminal.
+
+7.) Go to the GitHub page to your repository. 
+	Copy the remote repository's URL showen in the Quick setup page.
+	
+8.) On your local repository,
+	add the URL for the remote repository.
+	TIPE: ' git remote add origin [ URL ] '.
+	
+9.) Push the code in your local repository to GitHub.
+	TIPE: ' git push -u origin master
+	
+	You will be ask for your Username and Password, 
+	if you have it not already set it up in the seting
