@@ -6,12 +6,12 @@ Intro:
 Ther are only 4 basic commands you have to know to use git on you local machine.
 init, 'status',  'add', 'commit -m' and 'log'
 
-1.) Before you start working on your files you have to inizialize git
+1.)	Before you start working on your files you have to inizialize git
 	in the working directory.
 	
 	'git init'
 
-2.) Then you can start working by creating files, writing some text and making
+2.)	Then you can start working by creating files, writing some text and making
 	changes. Whene you are ready you should add the files you have worked on.
 	
 	'git add [filename.txt]'
@@ -34,7 +34,7 @@ init, 'status',  'add', 'commit -m' and 'log'
 5.)	Now you can repet steps 2 and  4 every time you made some changes and want to
 	keep track of all you changes. Don't forget to check your status: Step 3.
 	
-6.	If you whant you list all you history of all commits you have made, use:
+6.)	If you whant you list all you history of all commits you have made, use:
 
 	git log
 
