@@ -34,7 +34,11 @@ init, 'status',  'add', 'commit -m' and 'log'
 5.)	Now you can repet steps 2 and  4 every time you made some changes and want to
 	keep track of all you changes. Don't forget to check your status: Step 3.
 	
-6.)	If you whant you list all you history of all commits you have made, use:
+6.)	If you whant you list the history of all commits ie. changes you have made, use:
 
-	git log
+	'git log'
+	
+	Exit the log by using
+	
+	'q'
 
